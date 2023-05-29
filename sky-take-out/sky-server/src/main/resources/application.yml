@@ -51,7 +51,7 @@ sky:
   shop:
     address: 北京市海淀区上地十街10号
   baidu:
-    ak: xQYQBCKORpZPdNtfy5ZoX4jTLxaTLIMZ
+    ak:
 
   alioss:
     endpoint: ${sky.alioss.endpoint}

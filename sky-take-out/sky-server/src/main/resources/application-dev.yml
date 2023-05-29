@@ -7,9 +7,9 @@ sky:
     username: root
     password: 1234
   alioss:
-    endpoint: https://oss-cn-hangzhou.aliyuncs.com
-    accessKeyId: LTAI5tNUjxJWRvSuUKckZY8F
-    accessKeySecret: lP93mYRM1dVWF1bmbehqmdO7a3TPAi
+    endpoint:
+    accessKeyId:
+    accessKeySecret:
     bucketName: sky-take-out
   redis:
     host: localhost
@@ -17,5 +17,5 @@ sky:
     password: 123456
     database: 0
   wechat:
-    appid: wxc87c5a54ef91a3c0
-    secret: c9969738f52a8b00f74875696382aabb
+    appid:
+    secret:
